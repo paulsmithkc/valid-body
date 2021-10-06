@@ -1,0 +1,32 @@
+{
+  "name": "valid-body",
+  "version": "0.0.1",
+  "description": "Express middleware for validating the request body with Joi.",
+  "keywords": [
+    "express",
+    "middleware",
+    "validate",
+    "validation",
+    "body",
+    "joi"
+  ],
+  "main": "index.js",
+  "author": "Paul Smith",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulsmithkc/valid-body.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulsmithkc/valid-body/issues"
+  },
+  "homepage": "https://github.com/paulsmithkc/valid-body#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2"
+  },
+  "peerDependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2"
+  }
+}
