@@ -1,11 +1,12 @@
 {
-  "name": "valid-body",
+  "name": "valid-body-joi",
   "version": "0.0.1",
   "description": "Express middleware for validating the request body with Joi.",
   "keywords": [
     "express",
     "middleware",
     "validate",
+    "validator",
     "validation",
     "body",
     "joi"

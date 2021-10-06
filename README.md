@@ -1,15 +1,15 @@
-# valid-body
+# valid-body-joi
 Express middleware for validating the request body with Joi.
 
 ## Install
 ```
-npm install valid-body
+npm install valid-body-joi
 ```
 
 ## Usage
 Import the middleware and Joi as below:
 ```
-const validBody = require('valid-body');
+const validBody = require('valid-body-joi');
 const Joi = require('joi');
 ```
 
