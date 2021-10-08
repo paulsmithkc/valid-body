@@ -8,6 +8,7 @@
     "validate",
     "validator",
     "validation",
+    "request",
     "body",
     "joi"
   ],
