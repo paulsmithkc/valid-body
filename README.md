@@ -15,7 +15,7 @@ const Joi = require('joi');
 
 Define a schema:
 ```js
-const loginSchema = Joi.objectId({
+const loginSchema = Joi.object({
   email: Joi.string().trim().lowercase().email().required(),
   password: Joi.string().trim().required(),
 });
